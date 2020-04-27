@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250ea8bb-6d60-4229-98e6-f7033c32f471" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/js/MemberVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/js/MemberVo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -118,7 +124,7 @@
       <workItem from="1587694329447" duration="392000" />
       <workItem from="1587694730447" duration="1883000" />
       <workItem from="1587701813297" duration="6326000" />
-      <workItem from="1587951310605" duration="2097000" />
+      <workItem from="1587951310605" duration="2533000" />
     </task>
     <servers />
   </component>
@@ -158,9 +164,10 @@
       <screen x="1680" y="-30" width="2048" height="1129" />
     </state>
     <state x="2272" y="206" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1680.-30.2048.1129/0.23.1680.944@1680.-30.2048.1129" timestamp="1587693541922" />
-    <state x="2571" y="438" key="Github.ShareDialog" timestamp="1587967450091">
-      <screen x="1680" y="-30" width="2048" height="1129" />
+    <state x="2571" y="404" key="Github.ShareDialog" timestamp="1587970167344">
+      <screen x="1680" y="-30" width="2048" height="1046" />
     </state>
+    <state x="2571" y="404" key="Github.ShareDialog/1680.-30.2048.1046/0.23.1680.1027@1680.-30.2048.1046" timestamp="1587970167344" />
     <state x="2571" y="438" key="Github.ShareDialog/1680.-30.2048.1129/0.23.1680.944@1680.-30.2048.1129" timestamp="1587967450091" />
     <state x="2398" y="247" key="Github.UntrackedFilesDialog" timestamp="1587967455606">
       <screen x="1680" y="-30" width="2048" height="1129" />
@@ -226,6 +233,11 @@
       <screen x="1680" y="-30" width="2048" height="1129" />
     </state>
     <state x="1828" y="203" key="SettingsEditor/1680.-30.2048.1129/0.23.1680.944@1680.-30.2048.1129" timestamp="1587701796424" />
+    <state x="2304" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587970058260">
+      <screen x="1680" y="-30" width="2048" height="1046" />
+    </state>
+    <state x="2304" y="252" key="Vcs.Push.Dialog.v2/1680.-30.2048.1046/0.23.1680.1027@1680.-30.2048.1046" timestamp="1587970058260" />
+    <state x="2304" y="274" key="Vcs.Push.Dialog.v2/1680.-30.2048.1129/0.23.1680.944@1680.-30.2048.1129" timestamp="1587970047530" />
     <state x="2173" y="292" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1587715269396">
       <screen x="1680" y="-30" width="2048" height="1129" />
     </state>
